@@ -1,0 +1,1359 @@
+sentence,word,label
+Aaj ka din bohot busy tha,Aaj,URD
+Aaj ka din bohot busy tha,ka,URD
+Aaj ka din bohot busy tha,din,URD
+Aaj ka din bohot busy tha,bohot,URD
+Aaj ka din bohot busy tha,busy,ENG
+Aaj ka din bohot busy tha,tha,URD
+Yaar seriously I can not even right now,Yaar,URD
+Yaar seriously I can not even right now,seriously,ENG
+Yaar seriously I can not even right now,I,ENG
+Yaar seriously I can not even right now,can,ENG
+Yaar seriously I can not even right now,not,ENG
+Yaar seriously I can not even right now,even,ENG
+Yaar seriously I can not even right now,right,ENG
+Yaar seriously I can not even right now,now,ENG
+Bhai kal mera presentation hai still not prepared,Bhai,URD
+Bhai kal mera presentation hai still not prepared,kal,URD
+Bhai kal mera presentation hai still not prepared,mera,URD
+Bhai kal mera presentation hai still not prepared,presentation,ENG
+Bhai kal mera presentation hai still not prepared,hai,URD
+Bhai kal mera presentation hai still not prepared,still,ENG
+Bhai kal mera presentation hai still not prepared,not,ENG
+Bhai kal mera presentation hai still not prepared,prepared,ENG
+Khana kha liya I was literally waiting for you,Khana,URD
+Khana kha liya I was literally waiting for you,kha,URD
+Khana kha liya I was literally waiting for you,liya,URD
+Khana kha liya I was literally waiting for you,I,ENG
+Khana kha liya I was literally waiting for you,was,ENG
+Khana kha liya I was literally waiting for you,literally,ENG
+Khana kha liya I was literally waiting for you,waiting,ENG
+Khana kha liya I was literally waiting for you,for,ENG
+Khana kha liya I was literally waiting for you,you,ENG
+Aaj mera mood nahi hai for anything,Aaj,URD
+Aaj mera mood nahi hai for anything,mera,URD
+Aaj mera mood nahi hai for anything,mood,ENG
+Aaj mera mood nahi hai for anything,nahi,URD
+Aaj mera mood nahi hai for anything,hai,URD
+Aaj mera mood nahi hai for anything,for,ENG
+Aaj mera mood nahi hai for anything,anything,ENG
+Main raste mein hoon please wait for ten minutes,Main,URD
+Main raste mein hoon please wait for ten minutes,raste,URD
+Main raste mein hoon please wait for ten minutes,mein,URD
+Main raste mein hoon please wait for ten minutes,hoon,URD
+Main raste mein hoon please wait for ten minutes,please,ENG
+Main raste mein hoon please wait for ten minutes,wait,ENG
+Main raste mein hoon please wait for ten minutes,for,ENG
+Main raste mein hoon please wait for ten minutes,ten,ENG
+Main raste mein hoon please wait for ten minutes,minutes,ENG
+Is weather mein aik hot cup of chai is mandatory,Is,URD
+Is weather mein aik hot cup of chai is mandatory,weather,ENG
+Is weather mein aik hot cup of chai is mandatory,mein,URD
+Is weather mein aik hot cup of chai is mandatory,aik,URD
+Is weather mein aik hot cup of chai is mandatory,hot,ENG
+Is weather mein aik hot cup of chai is mandatory,cup,ENG
+Is weather mein aik hot cup of chai is mandatory,of,ENG
+Is weather mein aik hot cup of chai is mandatory,chai,URD
+Is weather mein aik hot cup of chai is mandatory,is,ENG
+Is weather mein aik hot cup of chai is mandatory,mandatory,ENG
+Assignment submit kar di hai or still working on it,Assignment,ENG
+Assignment submit kar di hai or still working on it,submit,ENG
+Assignment submit kar di hai or still working on it,kar,URD
+Assignment submit kar di hai or still working on it,di,URD
+Assignment submit kar di hai or still working on it,hai,URD
+Assignment submit kar di hai or still working on it,or,ENG
+Assignment submit kar di hai or still working on it,still,ENG
+Assignment submit kar di hai or still working on it,working,ENG
+Assignment submit kar di hai or still working on it,on,ENG
+Assignment submit kar di hai or still working on it,it,ENG
+Kal ki meeting ka time reschedule ho gaya hai,Kal,URD
+Kal ki meeting ka time reschedule ho gaya hai,ki,URD
+Kal ki meeting ka time reschedule ho gaya hai,meeting,ENG
+Kal ki meeting ka time reschedule ho gaya hai,ka,URD
+Kal ki meeting ka time reschedule ho gaya hai,time,ENG
+Kal ki meeting ka time reschedule ho gaya hai,reschedule,ENG
+Kal ki meeting ka time reschedule ho gaya hai,ho,URD
+Kal ki meeting ka time reschedule ho gaya hai,gaya,URD
+Kal ki meeting ka time reschedule ho gaya hai,hai,URD
+Bohot traffic tha so I missed the first lecture,Bohot,URD
+Bohot traffic tha so I missed the first lecture,traffic,ENG
+Bohot traffic tha so I missed the first lecture,tha,URD
+Bohot traffic tha so I missed the first lecture,so,ENG
+Bohot traffic tha so I missed the first lecture,I,ENG
+Bohot traffic tha so I missed the first lecture,missed,ENG
+Bohot traffic tha so I missed the first lecture,the,ENG
+Bohot traffic tha so I missed the first lecture,first,ENG
+Bohot traffic tha so I missed the first lecture,lecture,ENG
+Mujhe yeh movie dekhni hai looks very interesting,Mujhe,URD
+Mujhe yeh movie dekhni hai looks very interesting,yeh,URD
+Mujhe yeh movie dekhni hai looks very interesting,movie,ENG
+Mujhe yeh movie dekhni hai looks very interesting,dekhni,URD
+Mujhe yeh movie dekhni hai looks very interesting,hai,URD
+Mujhe yeh movie dekhni hai looks very interesting,looks,ENG
+Mujhe yeh movie dekhni hai looks very interesting,very,ENG
+Mujhe yeh movie dekhni hai looks very interesting,interesting,ENG
+Please pass me that water bottle bohot pyas lagi hai,Please,ENG
+Please pass me that water bottle bohot pyas lagi hai,pass,ENG
+Please pass me that water bottle bohot pyas lagi hai,me,ENG
+Please pass me that water bottle bohot pyas lagi hai,that,ENG
+Please pass me that water bottle bohot pyas lagi hai,water,ENG
+Please pass me that water bottle bohot pyas lagi hai,bottle,ENG
+Please pass me that water bottle bohot pyas lagi hai,bohot,URD
+Please pass me that water bottle bohot pyas lagi hai,pyas,URD
+Please pass me that water bottle bohot pyas lagi hai,lagi,URD
+Please pass me that water bottle bohot pyas lagi hai,hai,URD
+Itna tension mat lo everything will be fine,Itna,URD
+Itna tension mat lo everything will be fine,tension,ENG
+Itna tension mat lo everything will be fine,mat,URD
+Itna tension mat lo everything will be fine,lo,URD
+Itna tension mat lo everything will be fine,everything,ENG
+Itna tension mat lo everything will be fine,will,ENG
+Itna tension mat lo everything will be fine,be,ENG
+Itna tension mat lo everything will be fine,fine,ENG
+Laptop hang ho gaya hai I need to restart it,Laptop,ENG
+Laptop hang ho gaya hai I need to restart it,hang,ENG
+Laptop hang ho gaya hai I need to restart it,ho,URD
+Laptop hang ho gaya hai I need to restart it,gaya,URD
+Laptop hang ho gaya hai I need to restart it,hai,URD
+Laptop hang ho gaya hai I need to restart it,I,ENG
+Laptop hang ho gaya hai I need to restart it,need,ENG
+Laptop hang ho gaya hai I need to restart it,to,ENG
+Laptop hang ho gaya hai I need to restart it,restart,ENG
+Laptop hang ho gaya hai I need to restart it,it,ENG
+Yeh wala design looks aesthetic and modern,Yeh,URD
+Yeh wala design looks aesthetic and modern,wala,URD
+Yeh wala design looks aesthetic and modern,design,ENG
+Yeh wala design looks aesthetic and modern,looks,ENG
+Yeh wala design looks aesthetic and modern,aesthetic,ENG
+Yeh wala design looks aesthetic and modern,and,ENG
+Yeh wala design looks aesthetic and modern,modern,ENG
+Suno message check karo I sent you the file,Suno,URD
+Suno message check karo I sent you the file,message,ENG
+Suno message check karo I sent you the file,check,ENG
+Suno message check karo I sent you the file,karo,URD
+Suno message check karo I sent you the file,I,ENG
+Suno message check karo I sent you the file,sent,ENG
+Suno message check karo I sent you the file,you,ENG
+Suno message check karo I sent you the file,the,ENG
+Suno message check karo I sent you the file,file,ENG
+It is so hot today bilkul bahar nikalne ka dil nahi kar raha,It,ENG
+It is so hot today bilkul bahar nikalne ka dil nahi kar raha,is,ENG
+It is so hot today bilkul bahar nikalne ka dil nahi kar raha,so,ENG
+It is so hot today bilkul bahar nikalne ka dil nahi kar raha,hot,ENG
+It is so hot today bilkul bahar nikalne ka dil nahi kar raha,today,ENG
+It is so hot today bilkul bahar nikalne ka dil nahi kar raha,bilkul,URD
+It is so hot today bilkul bahar nikalne ka dil nahi kar raha,bahar,URD
+It is so hot today bilkul bahar nikalne ka dil nahi kar raha,nikalne,URD
+It is so hot today bilkul bahar nikalne ka dil nahi kar raha,ka,URD
+It is so hot today bilkul bahar nikalne ka dil nahi kar raha,dil,URD
+It is so hot today bilkul bahar nikalne ka dil nahi kar raha,nahi,URD
+It is so hot today bilkul bahar nikalne ka dil nahi kar raha,kar,URD
+It is so hot today bilkul bahar nikalne ka dil nahi kar raha,raha,URD
+Is code mein bug hai can you help me debug it,Is,URD
+Is code mein bug hai can you help me debug it,code,ENG
+Is code mein bug hai can you help me debug it,mein,URD
+Is code mein bug hai can you help me debug it,bug,ENG
+Is code mein bug hai can you help me debug it,hai,URD
+Is code mein bug hai can you help me debug it,can,ENG
+Is code mein bug hai can you help me debug it,you,ENG
+Is code mein bug hai can you help me debug it,help,ENG
+Is code mein bug hai can you help me debug it,me,ENG
+Is code mein bug hai can you help me debug it,debug,ENG
+Is code mein bug hai can you help me debug it,it,ENG
+Chai break ka time ho gaya hai let us go outside,Chai,URD
+Chai break ka time ho gaya hai let us go outside,break,ENG
+Chai break ka time ho gaya hai let us go outside,ka,URD
+Chai break ka time ho gaya hai let us go outside,time,ENG
+Chai break ka time ho gaya hai let us go outside,ho,URD
+Chai break ka time ho gaya hai let us go outside,gaya,URD
+Chai break ka time ho gaya hai let us go outside,hai,URD
+Chai break ka time ho gaya hai let us go outside,let,ENG
+Chai break ka time ho gaya hai let us go outside,us,ENG
+Chai break ka time ho gaya hai let us go outside,go,ENG
+Chai break ka time ho gaya hai let us go outside,outside,ENG
+Main kal shopping par ja rahi hoon with my sister,Main,URD
+Main kal shopping par ja rahi hoon with my sister,kal,URD
+Main kal shopping par ja rahi hoon with my sister,shopping,ENG
+Main kal shopping par ja rahi hoon with my sister,par,URD
+Main kal shopping par ja rahi hoon with my sister,ja,URD
+Main kal shopping par ja rahi hoon with my sister,rahi,URD
+Main kal shopping par ja rahi hoon with my sister,hoon,URD
+Main kal shopping par ja rahi hoon with my sister,with,ENG
+Main kal shopping par ja rahi hoon with my sister,my,ENG
+Main kal shopping par ja rahi hoon with my sister,sister,ENG
+Project ki deadline extend ho gayi hai what a relief,Project,ENG
+Project ki deadline extend ho gayi hai what a relief,ki,URD
+Project ki deadline extend ho gayi hai what a relief,deadline,ENG
+Project ki deadline extend ho gayi hai what a relief,extend,ENG
+Project ki deadline extend ho gayi hai what a relief,ho,URD
+Project ki deadline extend ho gayi hai what a relief,gayi,URD
+Project ki deadline extend ho gayi hai what a relief,hai,URD
+Project ki deadline extend ho gayi hai what a relief,what,ENG
+Project ki deadline extend ho gayi hai what a relief,a,ENG
+Project ki deadline extend ho gayi hai what a relief,relief,ENG
+Mera phone charge nahi ho raha check the cable,Mera,URD
+Mera phone charge nahi ho raha check the cable,phone,ENG
+Mera phone charge nahi ho raha check the cable,charge,ENG
+Mera phone charge nahi ho raha check the cable,nahi,URD
+Mera phone charge nahi ho raha check the cable,ho,URD
+Mera phone charge nahi ho raha check the cable,raha,URD
+Mera phone charge nahi ho raha check the cable,check,ENG
+Mera phone charge nahi ho raha check the cable,the,ENG
+Mera phone charge nahi ho raha check the cable,cable,ENG
+Bhai this place serves the best biryani in town,Bhai,URD
+Bhai this place serves the best biryani in town,this,ENG
+Bhai this place serves the best biryani in town,place,ENG
+Bhai this place serves the best biryani in town,serves,ENG
+Bhai this place serves the best biryani in town,the,ENG
+Bhai this place serves the best biryani in town,best,ENG
+Bhai this place serves the best biryani in town,biryani,URD
+Bhai this place serves the best biryani in town,in,ENG
+Bhai this place serves the best biryani in town,town,ENG
+Tumhara idea bohot brilliant tha I loved it,Tumhara,URD
+Tumhara idea bohot brilliant tha I loved it,idea,ENG
+Tumhara idea bohot brilliant tha I loved it,bohot,URD
+Tumhara idea bohot brilliant tha I loved it,brilliant,ENG
+Tumhara idea bohot brilliant tha I loved it,tha,URD
+Tumhara idea bohot brilliant tha I loved it,I,ENG
+Tumhara idea bohot brilliant tha I loved it,loved,ENG
+Tumhara idea bohot brilliant tha I loved it,it,ENG
+WiFi slow chal raha hai try reconnecting it,WiFi,ENG
+WiFi slow chal raha hai try reconnecting it,slow,ENG
+WiFi slow chal raha hai try reconnecting it,chal,URD
+WiFi slow chal raha hai try reconnecting it,raha,URD
+WiFi slow chal raha hai try reconnecting it,hai,URD
+WiFi slow chal raha hai try reconnecting it,try,ENG
+WiFi slow chal raha hai try reconnecting it,reconnecting,ENG
+WiFi slow chal raha hai try reconnecting it,it,ENG
+Aap late kyun ho gaye the traffic was terrible,Aap,URD
+Aap late kyun ho gaye the traffic was terrible,late,ENG
+Aap late kyun ho gaye the traffic was terrible,kyun,URD
+Aap late kyun ho gaye the traffic was terrible,ho,URD
+Aap late kyun ho gaye the traffic was terrible,gaye,URD
+Aap late kyun ho gaye the traffic was terrible,the,URD
+Aap late kyun ho gaye the traffic was terrible,traffic,ENG
+Aap late kyun ho gaye the traffic was terrible,was,ENG
+Aap late kyun ho gaye the traffic was terrible,terrible,ENG
+Aaj raat ko online match khelein ge match starts at nine,Aaj,URD
+Aaj raat ko online match khelein ge match starts at nine,raat,URD
+Aaj raat ko online match khelein ge match starts at nine,ko,URD
+Aaj raat ko online match khelein ge match starts at nine,online,ENG
+Aaj raat ko online match khelein ge match starts at nine,match,ENG
+Aaj raat ko online match khelein ge match starts at nine,khelein,URD
+Aaj raat ko online match khelein ge match starts at nine,ge,URD
+Aaj raat ko online match khelein ge match starts at nine,match,ENG
+Aaj raat ko online match khelein ge match starts at nine,starts,ENG
+Aaj raat ko online match khelein ge match starts at nine,at,ENG
+Aaj raat ko online match khelein ge match starts at nine,nine,ENG
+Mera exam bohot tough tha overall score bad aayega,Mera,URD
+Mera exam bohot tough tha overall score bad aayega,exam,ENG
+Mera exam bohot tough tha overall score bad aayega,bohot,URD
+Mera exam bohot tough tha overall score bad aayega,tough,ENG
+Mera exam bohot tough tha overall score bad aayega,tha,URD
+Mera exam bohot tough tha overall score bad aayega,overall,ENG
+Mera exam bohot tough tha overall score bad aayega,score,ENG
+Mera exam bohot tough tha overall score bad aayega,bad,ENG
+Mera exam bohot tough tha overall score bad aayega,aayega,URD
+Bahar mausam bohot awesome hai let us go for a drive,Bahar,URD
+Bahar mausam bohot awesome hai let us go for a drive,mausam,URD
+Bahar mausam bohot awesome hai let us go for a drive,bohot,URD
+Bahar mausam bohot awesome hai let us go for a drive,awesome,ENG
+Bahar mausam bohot awesome hai let us go for a drive,hai,URD
+Bahar mausam bohot awesome hai let us go for a drive,let,ENG
+Bahar mausam bohot awesome hai let us go for a drive,us,ENG
+Bahar mausam bohot awesome hai let us go for a drive,go,ENG
+Bahar mausam bohot awesome hai let us go for a drive,for,ENG
+Bahar mausam bohot awesome hai let us go for a drive,a,ENG
+Bahar mausam bohot awesome hai let us go for a drive,drive,ENG
+Is issue ka solution clear nahi hai need more research,Is,URD
+Is issue ka solution clear nahi hai need more research,issue,ENG
+Is issue ka solution clear nahi hai need more research,ka,URD
+Is issue ka solution clear nahi hai need more research,solution,ENG
+Is issue ka solution clear nahi hai need more research,clear,ENG
+Is issue ka solution clear nahi hai need more research,nahi,URD
+Is issue ka solution clear nahi hai need more research,hai,URD
+Is issue ka solution clear nahi hai need more research,need,ENG
+Is issue ka solution clear nahi hai need more research,more,ENG
+Is issue ka solution clear nahi hai need more research,research,ENG
+Bhai mujhe yeh shirt buy karni hai looks high quality,Bhai,URD
+Bhai mujhe yeh shirt buy karni hai looks high quality,mujhe,URD
+Bhai mujhe yeh shirt buy karni hai looks high quality,yeh,URD
+Bhai mujhe yeh shirt buy karni hai looks high quality,shirt,ENG
+Bhai mujhe yeh shirt buy karni hai looks high quality,buy,ENG
+Bhai mujhe yeh shirt buy karni hai looks high quality,karni,URD
+Bhai mujhe yeh shirt buy karni hai looks high quality,hai,URD
+Bhai mujhe yeh shirt buy karni hai looks high quality,looks,ENG
+Bhai mujhe yeh shirt buy karni hai looks high quality,high,ENG
+Bhai mujhe yeh shirt buy karni hai looks high quality,quality,ENG
+Aap ne mera message ignore kar diya why are you upset,Aap,URD
+Aap ne mera message ignore kar diya why are you upset,ne,URD
+Aap ne mera message ignore kar diya why are you upset,mera,URD
+Aap ne mera message ignore kar diya why are you upset,message,ENG
+Aap ne mera message ignore kar diya why are you upset,ignore,ENG
+Aap ne mera message ignore kar diya why are you upset,kar,URD
+Aap ne mera message ignore kar diya why are you upset,diya,URD
+Aap ne mera message ignore kar diya why are you upset,why,ENG
+Aap ne mera message ignore kar diya why are you upset,are,ENG
+Aap ne mera message ignore kar diya why are you upset,you,ENG
+Aap ne mera message ignore kar diya why are you upset,upset,ENG
+Kal subah early morning gym jana hai so sleep early,Kal,URD
+Kal subah early morning gym jana hai so sleep early,subah,URD
+Kal subah early morning gym jana hai so sleep early,early,ENG
+Kal subah early morning gym jana hai so sleep early,morning,ENG
+Kal subah early morning gym jana hai so sleep early,gym,ENG
+Kal subah early morning gym jana hai so sleep early,jana,URD
+Kal subah early morning gym jana hai so sleep early,hai,URD
+Kal subah early morning gym jana hai so sleep early,so,ENG
+Kal subah early morning gym jana hai so sleep early,sleep,ENG
+Kal subah early morning gym jana hai so sleep early,early,ENG
+Yeh song bohot catchy hai playing on loop,Yeh,URD
+Yeh song bohot catchy hai playing on loop,song,ENG
+Yeh song bohot catchy hai playing on loop,bohot,URD
+Yeh song bohot catchy hai playing on loop,catchy,ENG
+Yeh song bohot catchy hai playing on loop,hai,URD
+Yeh song bohot catchy hai playing on loop,playing,ENG
+Yeh song bohot catchy hai playing on loop,on,ENG
+Yeh song bohot catchy hai playing on loop,loop,ENG
+Unka customer support is hopeless response nahi deta,Unka,URD
+Unka customer support is hopeless response nahi deta,customer,ENG
+Unka customer support is hopeless response nahi deta,support,ENG
+Unka customer support is hopeless response nahi deta,is,ENG
+Unka customer support is hopeless response nahi deta,hopeless,ENG
+Unka customer support is hopeless response nahi deta,response,ENG
+Unka customer support is hopeless response nahi deta,nahi,URD
+Unka customer support is hopeless response nahi deta,deta,URD
+Mujhe naya phone lena hai suggestion do fast,Mujhe,URD
+Mujhe naya phone lena hai suggestion do fast,naya,URD
+Mujhe naya phone lena hai suggestion do fast,phone,ENG
+Mujhe naya phone lena hai suggestion do fast,lena,URD
+Mujhe naya phone lena hai suggestion do fast,hai,URD
+Mujhe naya phone lena hai suggestion do fast,suggestion,ENG
+Mujhe naya phone lena hai suggestion do fast,do,URD
+Mujhe naya phone lena hai suggestion do fast,fast,ENG
+Is resturant ki service super slow thi delay script ho gaya,Is,URD
+Is resturant ki service super slow thi delay script ho gaya,resturant,ENG
+Is resturant ki service super slow thi delay script ho gaya,ki,URD
+Is resturant ki service super slow thi delay script ho gaya,service,ENG
+Is resturant ki service super slow thi delay script ho gaya,super,ENG
+Is resturant ki service super slow thi delay script ho gaya,slow,ENG
+Is resturant ki service super slow thi delay script ho gaya,thi,URD
+Is resturant ki service super slow thi delay script ho gaya,delay,ENG
+Is resturant ki service super slow thi delay script ho gaya,script,ENG
+Is resturant ki service super slow thi delay script ho gaya,ho,URD
+Is resturant ki service super slow thi delay script ho gaya,gaya,URD
+Kal mera result aane wala hai feeling so nervous,Kal,URD
+Kal mera result aane wala hai feeling so nervous,mera,URD
+Kal mera result aane wala hai feeling so nervous,result,ENG
+Kal mera result aane wala hai feeling so nervous,aane,URD
+Kal mera result aane wala hai feeling so nervous,wala,URD
+Kal mera result aane wala hai feeling so nervous,hai,URD
+Kal mera result aane wala hai feeling so nervous,feeling,ENG
+Kal mera result aane wala hai feeling so nervous,so,ENG
+Kal mera result aane wala hai feeling so nervous,nervous,ENG
+Gari mein fuel khatam hone wala hai find nearest station,Gari,URD
+Gari mein fuel khatam hone wala hai find nearest station,mein,URD
+Gari mein fuel khatam hone wala hai find nearest station,fuel,ENG
+Gari mein fuel khatam hone wala hai find nearest station,khatam,URD
+Gari mein fuel khatam hone wala hai find nearest station,hone,URD
+Gari mein fuel khatam hone wala hai find nearest station,wala,URD
+Gari mein fuel khatam hone wala hai find nearest station,hai,URD
+Gari mein fuel khatam hone wala hai find nearest station,find,ENG
+Gari mein fuel khatam hone wala hai find nearest station,nearest,ENG
+Gari mein fuel khatam hone wala hai find nearest station,station,ENG
+Main aap se later contact karta hoon currently in meeting,Main,URD
+Main aap se later contact karta hoon currently in meeting,aap,URD
+Main aap se later contact karta hoon currently in meeting,se,URD
+Main aap se later contact karta hoon currently in meeting,later,ENG
+Main aap se later contact karta hoon currently in meeting,contact,ENG
+Main aap se later contact karta hoon currently in meeting,karta,URD
+Main aap se later contact karta hoon currently in meeting,hoon,URD
+Main aap se later contact karta hoon currently in meeting,currently,ENG
+Main aap se later contact karta hoon currently in meeting,in,ENG
+Main aap se later contact karta hoon currently in meeting,meeting,ENG
+Yaar tension na lo God will fix everything soon,Yaar,URD
+Yaar tension na lo God will fix everything soon,tension,ENG
+Yaar tension na lo God will fix everything soon,na,URD
+Yaar tension na lo God will fix everything soon,lo,URD
+Yaar tension na lo God will fix everything soon,God,ENG
+Yaar tension na lo God will fix everything soon,will,ENG
+Yaar tension na lo God will fix everything soon,fix,ENG
+Yaar tension na lo God will fix everything soon,everything,ENG
+Yaar tension na lo God will fix everything soon,soon,ENG
+Yeh color combination looks weird change it please,Yeh,URD
+Yeh color combination looks weird change it please,color,ENG
+Yeh color combination looks weird change it please,combination,ENG
+Yeh color combination looks weird change it please,looks,ENG
+Yeh color combination looks weird change it please,weird,ENG
+Yeh color combination looks weird change it please,change,ENG
+Yeh color combination looks weird change it please,it,ENG
+Yeh color combination looks weird change it please,please,ENG
+Mera order deliver nahi hua order status is pending,Mera,URD
+Mera order deliver nahi hua order status is pending,order,ENG
+Mera order deliver nahi hua order status is pending,deliver,ENG
+Mera order deliver nahi hua order status is pending,nahi,URD
+Mera order deliver nahi hua order status is pending,hua,URD
+Mera order deliver nahi hua order status is pending,order,ENG
+Mera order deliver nahi hua order status is pending,status,ENG
+Mera order deliver nahi hua order status is pending,is,ENG
+Mera order deliver nahi hua order status is pending,pending,ENG
+Tumhara presentation style bohot impressive tha keep it up,Tumhara,URD
+Tumhara presentation style bohot impressive tha keep it up,presentation,ENG
+Tumhara presentation style bohot impressive tha keep it up,style,ENG
+Tumhara presentation style bohot impressive tha keep it up,bohot,URD
+Tumhara presentation style bohot impressive tha keep it up,impressive,ENG
+Tumhara presentation style bohot impressive tha keep it up,tha,URD
+Tumhara presentation style bohot impressive tha keep it up,keep,ENG
+Tumhara presentation style bohot impressive tha keep it up,it,ENG
+Tumhara presentation style bohot impressive tha keep it up,up,ENG
+Khaana bohot spicy tha my mouth is burning,Khaana,URD
+Khaana bohot spicy tha my mouth is burning,bohot,URD
+Khaana bohot spicy tha my mouth is burning,spicy,ENG
+Khaana bohot spicy tha my mouth is burning,tha,URD
+Khaana bohot spicy tha my mouth is burning,my,ENG
+Khaana bohot spicy tha my mouth is burning,mouth,ENG
+Khaana bohot spicy tha my mouth is burning,is,ENG
+Khaana bohot spicy tha my mouth is burning,burning,ENG
+Aap ne location send ki hai I am following map,Aap,URD
+Aap ne location send ki hai I am following map,ne,URD
+Aap ne location send ki hai I am following map,location,ENG
+Aap ne location send ki hai I am following map,send,ENG
+Aap ne location send ki hai I am following map,ki,URD
+Aap ne location send ki hai I am following map,hai,URD
+Aap ne location send ki hai I am following map,I,ENG
+Aap ne location send ki hai I am following map,am,ENG
+Aap ne location send ki hai I am following map,following,ENG
+Aap ne location send ki hai I am following map,map,ENG
+Yeh project team effort tha everyone worked hard,Yeh,URD
+Yeh project team effort tha everyone worked hard,project,ENG
+Yeh project team effort tha everyone worked hard,team,ENG
+Yeh project team effort tha everyone worked hard,effort,ENG
+Yeh project team effort tha everyone worked hard,tha,URD
+Yeh project team effort tha everyone worked hard,everyone,ENG
+Yeh project team effort tha everyone worked hard,worked,ENG
+Yeh project team effort tha everyone worked hard,hard,ENG
+Main ne insta story post kar di check it out,Main,URD
+Main ne insta story post kar di check it out,ne,URD
+Main ne insta story post kar di check it out,insta,ENG
+Main ne insta story post kar di check it out,story,ENG
+Main ne insta story post kar di check it out,post,ENG
+Main ne insta story post kar di check it out,kar,URD
+Main ne insta story post kar di check it out,di,URD
+Main ne insta story post kar di check it out,check,ENG
+Main ne insta story post kar di check it out,it,ENG
+Main ne insta story post kar di check it out,out,ENG
+Is saal thand bohot zyada hai weather is freezing,Is,URD
+Is saal thand bohot zyada hai weather is freezing,saal,URD
+Is saal thand bohot zyada hai weather is freezing,thand,URD
+Is saal thand bohot zyada hai weather is freezing,bohot,URD
+Is saal thand bohot zyada hai weather is freezing,zyada,URD
+Is saal thand bohot zyada hai weather is freezing,hai,URD
+Is saal thand bohot zyada hai weather is freezing,weather,ENG
+Is saal thand bohot zyada hai weather is freezing,is,ENG
+Is saal thand bohot zyada hai weather is freezing,freezing,ENG
+Mera subscription expire ho gaya hai need to renew,Mera,URD
+Mera subscription expire ho gaya hai need to renew,subscription,ENG
+Mera subscription expire ho gaya hai need to renew,expire,ENG
+Mera subscription expire ho gaya hai need to renew,ho,URD
+Mera subscription expire ho gaya hai need to renew,gaya,URD
+Mera subscription expire ho gaya hai need to renew,hai,URD
+Mera subscription expire ho gaya hai need to renew,need,ENG
+Mera subscription expire ho gaya hai need to renew,to,ENG
+Mera subscription expire ho gaya hai need to renew,renew,ENG
+Aap ka resume shortlisted ho gaya hai expect a call,Aap,URD
+Aap ka resume shortlisted ho gaya hai expect a call,ka,URD
+Aap ka resume shortlisted ho gaya hai expect a call,resume,ENG
+Aap ka resume shortlisted ho gaya hai expect a call,shortlisted,ENG
+Aap ka resume shortlisted ho gaya hai expect a call,ho,URD
+Aap ka resume shortlisted ho gaya hai expect a call,gaya,URD
+Aap ka resume shortlisted ho gaya hai expect a call,hai,URD
+Aap ka resume shortlisted ho gaya hai expect a call,expect,ENG
+Aap ka resume shortlisted ho gaya hai expect a call,a,ENG
+Aap ka resume shortlisted ho gaya hai expect a call,call,ENG
+Yeh coffee bohot strong hai my brain woke up,Yeh,URD
+Yeh coffee bohot strong hai my brain woke up,coffee,ENG
+Yeh coffee bohot strong hai my brain woke up,bohot,URD
+Yeh coffee bohot strong hai my brain woke up,strong,ENG
+Yeh coffee bohot strong hai my brain woke up,hai,URD
+Yeh coffee bohot strong hai my brain woke up,my,ENG
+Yeh coffee bohot strong hai my brain woke up,brain,ENG
+Yeh coffee bohot strong hai my brain woke up,woke,ENG
+Yeh coffee bohot strong hai my brain woke up,up,ENG
+Bhai drive carefully road par hazard hai,Bhai,URD
+Bhai drive carefully road par hazard hai,drive,ENG
+Bhai drive carefully road par hazard hai,carefully,ENG
+Bhai drive carefully road par hazard hai,road,ENG
+Bhai drive carefully road par hazard hai,par,URD
+Bhai drive carefully road par hazard hai,hazard,ENG
+Bhai drive carefully road par hazard hai,hai,URD
+Main ne update install kar liya hai app is smooth now,Main,URD
+Main ne update install kar liya hai app is smooth now,ne,URD
+Main ne update install kar liya hai app is smooth now,update,ENG
+Main ne update install kar liya hai app is smooth now,install,ENG
+Main ne update install kar liya hai app is smooth now,kar,URD
+Main ne update install kar liya hai app is smooth now,liya,URD
+Main ne update install kar liya hai app is smooth now,hai,URD
+Main ne update install kar liya hai app is smooth now,app,ENG
+Main ne update install kar liya hai app is smooth now,is,ENG
+Main ne update install kar liya hai app is smooth now,smooth,ENG
+Main ne update install kar liya hai app is smooth now,now,ENG
+Aaj raat dinner bahar se order karte hain tired of cooking,Aaj,URD
+Aaj raat dinner bahar se order karte hain tired of cooking,raat,URD
+Aaj raat dinner bahar se order karte hain tired of cooking,dinner,ENG
+Aaj raat dinner bahar se order karte hain tired of cooking,bahar,URD
+Aaj raat dinner bahar se order karte hain tired of cooking,se,URD
+Aaj raat dinner bahar se order karte hain tired of cooking,order,ENG
+Aaj raat dinner bahar se order karte hain tired of cooking,karte,URD
+Aaj raat dinner bahar se order karte hain tired of cooking,hain,URD
+Aaj raat dinner bahar se order karte hain tired of cooking,tired,ENG
+Aaj raat dinner bahar se order karte hain tired of cooking,of,ENG
+Aaj raat dinner bahar se order karte hain tired of cooking,cooking,ENG
+Yeh dialogue bohot iconic tha crowd went wild,Yeh,URD
+Yeh dialogue bohot iconic tha crowd went wild,dialogue,ENG
+Yeh dialogue bohot iconic tha crowd went wild,bohot,URD
+Yeh dialogue bohot iconic tha crowd went wild,iconic,ENG
+Yeh dialogue bohot iconic tha crowd went wild,tha,URD
+Yeh dialogue bohot iconic tha crowd went wild,crowd,ENG
+Yeh dialogue bohot iconic tha crowd went wild,went,ENG
+Yeh dialogue bohot iconic tha crowd went wild,wild,ENG
+Apna password share mat karna security breach ho jaye ga,Apna,URD
+Apna password share mat karna security breach ho jaye ga,password,ENG
+Apna password share mat karna security breach ho jaye ga,share,ENG
+Apna password share mat karna security breach ho jaye ga,mat,URD
+Apna password share mat karna security breach ho jaye ga,karna,URD
+Apna password share mat karna security breach ho jaye ga,security,ENG
+Apna password share mat karna security breach ho jaye ga,breach,ENG
+Apna password share mat karna security breach ho jaye ga,ho,URD
+Apna password share mat karna security breach ho jaye ga,jaye,URD
+Apna password share mat karna security breach ho jaye ga,ga,URD
+Aaj mera workout skipp ho gaya feel so guilty,Aaj,URD
+Aaj mera workout skipp ho gaya feel so guilty,mera,URD
+Aaj mera workout skipp ho gaya feel so guilty,workout,ENG
+Aaj mera workout skipp ho gaya feel so guilty,skipp,ENG
+Aaj mera workout skipp ho gaya feel so guilty,ho,URD
+Aaj mera workout skipp ho gaya feel so guilty,gaya,URD
+Aaj mera workout skipp ho gaya feel so guilty,feel,ENG
+Aaj mera workout skipp ho gaya feel so guilty,so,ENG
+Aaj mera workout skipp ho gaya feel so guilty,guilty,ENG
+Is laptop ki battery timing amazing hai lasts all day,Is,URD
+Is laptop ki battery timing amazing hai lasts all day,laptop,ENG
+Is laptop ki battery timing amazing hai lasts all day,ki,URD
+Is laptop ki battery timing amazing hai lasts all day,battery,ENG
+Is laptop ki battery timing amazing hai lasts all day,timing,ENG
+Is laptop ki battery timing amazing hai lasts all day,amazing,ENG
+Is laptop ki battery timing amazing hai lasts all day,hai,URD
+Is laptop ki battery timing amazing hai lasts all day,lasts,ENG
+Is laptop ki battery timing amazing hai lasts all day,all,ENG
+Is laptop ki battery timing amazing hai lasts all day,day,ENG
+Mera schedule bohot packed hai cannot fit another task,Mera,URD
+Mera schedule bohot packed hai cannot fit another task,schedule,ENG
+Mera schedule bohot packed hai cannot fit another task,bohot,URD
+Mera schedule bohot packed hai cannot fit another task,packed,ENG
+Mera schedule bohot packed hai cannot fit another task,hai,URD
+Mera schedule bohot packed hai cannot fit another task,cannot,ENG
+Mera schedule bohot packed hai cannot fit another task,fit,ENG
+Mera schedule bohot packed hai cannot fit another task,another,ENG
+Mera schedule bohot packed hai cannot fit another task,task,ENG
+Bhai suno email verify karo code message aya hoga,Bhai,URD
+Bhai suno email verify karo code message aya hoga,suno,URD
+Bhai suno email verify karo code message aya hoga,email,ENG
+Bhai suno email verify karo code message aya hoga,verify,ENG
+Bhai suno email verify karo code message aya hoga,karo,URD
+Bhai suno email verify karo code message aya hoga,code,ENG
+Bhai suno email verify karo code message aya hoga,message,ENG
+Bhai suno email verify karo code message aya hoga,aya,URD
+Bhai suno email verify karo code message aya hoga,hoga,URD
+Yeh camera clarity is insane picture looks real,Yeh,URD
+Yeh camera clarity is insane picture looks real,camera,ENG
+Yeh camera clarity is insane picture looks real,clarity,ENG
+Yeh camera clarity is insane picture looks real,is,ENG
+Yeh camera clarity is insane picture looks real,insane,ENG
+Yeh camera clarity is insane picture looks real,picture,ENG
+Yeh camera clarity is insane picture looks real,looks,ENG
+Yeh camera clarity is insane picture looks real,real,ENG
+Main parson karachi ja raha hoon booking complete,Main,URD
+Main parson karachi ja raha hoon booking complete,parson,URD
+Main parson karachi ja raha hoon booking complete,karachi,URD
+Main parson karachi ja raha hoon booking complete,ja,URD
+Main parson karachi ja raha hoon booking complete,rahi,URD
+Main parson karachi ja raha hoon booking complete,hoon,URD
+Main parson karachi ja raha hoon booking complete,booking,ENG
+Main parson karachi ja raha hoon booking complete,complete,ENG
+Is hotel ka ambiance is so aesthetic and clean,Is,URD
+Is hotel ka ambiance is so aesthetic and clean,hotel,ENG
+Is hotel ka ambiance is so aesthetic and clean,ka,URD
+Is hotel ka ambiance is so aesthetic and clean,ambiance,ENG
+Is hotel ka ambiance is so aesthetic and clean,is,ENG
+Is hotel ka ambiance is so aesthetic and clean,so,ENG
+Is hotel ka ambiance is so aesthetic and clean,aesthetic,ENG
+Is hotel ka ambiance is so aesthetic and clean,and,ENG
+Is hotel ka ambiance is so aesthetic and clean,clean,ENG
+Mera exam center bohot door tha reached just in time,Mera,URD
+Mera exam center bohot door tha reached just in time,exam,ENG
+Mera exam center bohot door tha reached just in time,center,ENG
+Mera exam center bohot door tha reached just in time,bohot,URD
+Mera exam center bohot door tha reached just in time,door,URD
+Mera exam center bohot door tha reached just in time,tha,URD
+Mera exam center bohot door tha reached just in time,reached,ENG
+Mera exam center bohot door tha reached just in time,just,ENG
+Mera exam center bohot door tha reached just in time,in,ENG
+Mera exam center bohot door tha reached just in time,time,ENG
+Yeh mobile app crash kar rahi hai reinstall it again,Yeh,URD
+Yeh mobile app crash kar rahi hai reinstall it again,mobile,ENG
+Yeh mobile app crash kar rahi hai reinstall it again,app,ENG
+Yeh mobile app crash kar rahi hai reinstall it again,crash,ENG
+Yeh mobile app crash kar rahi hai reinstall it again,kar,URD
+Yeh mobile app crash kar rahi hai reinstall it again,rahi,URD
+Yeh mobile app crash kar rahi hai reinstall it again,hai,URD
+Yeh mobile app crash kar rahi hai reinstall it again,reinstall,ENG
+Yeh mobile app crash kar rahi hai reinstall it again,it,ENG
+Yeh mobile app crash kar rahi hai reinstall it again,again,ENG
+Mujhe naya laptop lena hai budget is limited,Mujhe,URD
+Mujhe naya laptop lena hai budget is limited,naya,URD
+Mujhe naya laptop lena hai budget is limited,laptop,ENG
+Mujhe naya laptop lena hai budget is limited,lena,URD
+Mujhe naya laptop lena hai budget is limited,hai,URD
+Mujhe naya laptop lena hai budget is limited,budget,ENG
+Mujhe naya laptop lena hai budget is limited,is,ENG
+Mujhe naya laptop lena hai budget is limited,limited,ENG
+Bhai link copy karke send kar do quickly,Bhai,URD
+Bhai link copy karke send kar do quickly,link,ENG
+Bhai link copy karke send kar do quickly,copy,ENG
+Bhai link copy karke send kar do quickly,karke,URD
+Bhai link copy karke send kar do quickly,send,ENG
+Bhai link copy karke send kar do quickly,kar,URD
+Bhai link copy karke send kar do quickly,do,URD
+Bhai link copy karke send kar do quickly,quickly,ENG
+Unki customer service is very supportive issue resolved instantly,Unki,URD
+Unki customer service is very supportive issue resolved instantly,customer,ENG
+Unki customer service is very supportive issue resolved instantly,service,ENG
+Unki customer service is very supportive issue resolved instantly,is,ENG
+Unki customer service is very supportive issue resolved instantly,very,ENG
+Unki customer service is very supportive issue resolved instantly,supportive,ENG
+Unki customer service is very supportive issue resolved instantly,issue,ENG
+Unki customer service is very supportive issue resolved instantly,resolved,ENG
+Unki customer service is very supportive issue resolved instantly,instantly,ENG
+Mera mic mute tha I was speaking for five minutes,Mera,URD
+Mera mic mute tha I was speaking for five minutes,mic,ENG
+Mera mic mute tha I was speaking for five minutes,mute,ENG
+Mera mic mute tha I was speaking for five minutes,tha,URD
+Mera mic mute tha I was speaking for five minutes,I,ENG
+Mera mic mute tha I was speaking for five minutes,was,ENG
+Mera mic mute tha I was speaking for five minutes,speaking,ENG
+Mera mic mute tha I was speaking for five minutes,for,ENG
+Mera mic mute tha I was speaking for five minutes,five,ENG
+Mera mic mute tha I was speaking for five minutes,minutes,ENG
+Aaj shaam ko tea party hai join us guys,Aaj,URD
+Aaj shaam ko tea party hai join us guys,shaam,URD
+Aaj shaam ko tea party hai join us guys,ko,URD
+Aaj shaam ko tea party hai join us guys,tea,ENG
+Aaj shaam ko tea party hai join us guys,party,ENG
+Aaj shaam ko tea party hai join us guys,hai,URD
+Aaj shaam ko tea party hai join us guys,join,ENG
+Aaj shaam ko tea party hai join us guys,us,ENG
+Aaj shaam ko tea party hai join us guys,guys,ENG
+Yeh movie trailer was mindblowing must watch film,Yeh,URD
+Yeh movie trailer was mindblowing must watch film,movie,ENG
+Yeh movie trailer was mindblowing must watch film,trailer,ENG
+Yeh movie trailer was mindblowing must watch film,was,ENG
+Yeh movie trailer was mindblowing must watch film,mindblowing,ENG
+Yeh movie trailer was mindblowing must watch film,must,ENG
+Yeh movie trailer was mindblowing must watch film,watch,ENG
+Yeh movie trailer was mindblowing must watch film,film,ENG
+Main kal shopping mall gaya tha bought a cool jacket,Main,URD
+Main kal shopping mall gaya tha bought a cool jacket,kal,URD
+Main kal shopping mall gaya tha bought a cool jacket,shopping,ENG
+Main kal shopping mall gaya tha bought a cool jacket,mall,ENG
+Main kal shopping mall gaya tha bought a cool jacket,gaya,URD
+Main kal shopping mall gaya tha bought a cool jacket,tha,URD
+Main kal shopping mall gaya tha bought a cool jacket,bought,ENG
+Main kal shopping mall gaya tha bought a cool jacket,a,ENG
+Main kal shopping mall gaya tha bought a cool jacket,cool,ENG
+Main kal shopping mall gaya tha bought a cool jacket,jacket,ENG
+Bhai screen share karo let me view your error,Bhai,URD
+Bhai screen share karo let me view your error,screen,ENG
+Bhai screen share karo let me view your error,share,ENG
+Bhai screen share karo let me view your error,karo,URD
+Bhai screen share karo let me view your error,let,ENG
+Bhai screen share karo let me view your error,me,ENG
+Bhai screen share karo let me view your error,view,ENG
+Bhai screen share karo let me view your error,your,ENG
+Bhai screen share karo let me view your error,error,ENG
+Yeh topic bohot confusing hai need simple explanation,Yeh,URD
+Yeh topic bohot confusing hai need simple explanation,topic,ENG
+Yeh topic bohot confusing hai need simple explanation,bohot,URD
+Yeh topic bohot confusing hai need simple explanation,confusing,ENG
+Yeh topic bohot confusing hai need simple explanation,hai,URD
+Yeh topic bohot confusing hai need simple explanation,need,ENG
+Yeh topic bohot confusing hai need simple explanation,simple,ENG
+Yeh topic bohot confusing hai need simple explanation,explanation,ENG
+Mujhe thori sleep chahiye tired after long drive,Mujhe,URD
+Mujhe thori sleep chahiye tired after long drive,thori,URD
+Mujhe thori sleep chahiye tired after long drive,sleep,ENG
+Mujhe thori sleep chahiye tired after long drive,chahiye,URD
+Mujhe thori sleep chahiye tired after long drive,tired,ENG
+Mujhe thori sleep chahiye tired after long drive,after,ENG
+Mujhe thori sleep chahiye tired after long drive,long,ENG
+Mujhe thori sleep chahiye tired after long drive,drive,ENG
+Is phone ka display is super crisp colors look vibrant,Is,URD
+Is phone ka display is super crisp colors look vibrant,phone,ENG
+Is phone ka display is super crisp colors look vibrant,ka,URD
+Is phone ka display is super crisp colors look vibrant,display,ENG
+Is phone ka display is super crisp colors look vibrant,is,ENG
+Is phone ka display is super crisp colors look vibrant,super,ENG
+Is phone ka display is super crisp colors look vibrant,crisp,ENG
+Is phone ka display is super crisp colors look vibrant,colors,ENG
+Is phone ka display is super crisp colors look vibrant,look,ENG
+Is phone ka display is super crisp colors look vibrant,vibrant,ENG
+Aaj mera workout session peak tha hit new personal record,Aaj,URD
+Aaj mera workout session peak tha hit new personal record,mera,URD
+Aaj mera workout session peak tha hit new personal record,workout,ENG
+Aaj mera workout session peak tha hit new personal record,session,ENG
+Aaj mera workout session peak tha hit new personal record,peak,ENG
+Aaj mera workout session peak tha hit new personal record,tha,URD
+Aaj mera workout session peak tha hit new personal record,hit,ENG
+Aaj mera workout session peak tha hit new personal record,new,ENG
+Aaj mera workout session peak tha hit new personal record,personal,ENG
+Aaj mera workout session peak tha hit new personal record,record,ENG
+Mera account block ho gaya logging in was failed,Mera,URD
+Mera account block ho gaya logging in was failed,account,ENG
+Mera account block ho gaya logging in was failed,block,ENG
+Mera account block ho gaya logging in was failed,ho,URD
+Mera account block ho gaya logging in was failed,gaya,URD
+Mera account block ho gaya logging in was failed,logging,ENG
+Mera account block ho gaya logging in was failed,in,ENG
+Mera account block ho gaya logging in was failed,was,ENG
+Mera account block ho gaya logging in was failed,failed,ENG
+Kal fast food khaya tha feeling bloated right now,Kal,URD
+Kal fast food khaya tha feeling bloated right now,fast,ENG
+Kal fast food khaya tha feeling bloated right now,food,ENG
+Kal fast food khaya tha feeling bloated right now,khaya,URD
+Kal fast food khaya tha feeling bloated right now,tha,URD
+Kal fast food khaya tha feeling bloated right now,feeling,ENG
+Kal fast food khaya tha feeling bloated right now,bloated,ENG
+Kal fast food khaya tha feeling bloated right now,right,ENG
+Kal fast food khaya tha feeling bloated right now,now,ENG
+Bhai playlist change karo play some upbeat tracks,Bhai,URD
+Bhai playlist change karo play some upbeat tracks,playlist,ENG
+Bhai playlist change karo play some upbeat tracks,change,ENG
+Bhai playlist change karo play some upbeat tracks,karo,URD
+Bhai playlist change karo play some upbeat tracks,play,ENG
+Bhai playlist change karo play some upbeat tracks,some,ENG
+Bhai playlist change karo play some upbeat tracks,upbeat,ENG
+Bhai playlist change karo play some upbeat tracks,tracks,ENG
+Aap ka delivery location is out of range change address,Aap,URD
+Aap ka delivery location is out of range change address,ka,URD
+Aap ka delivery location is out of range change address,delivery,ENG
+Aap ka delivery location is out of range change address,location,ENG
+Aap ka delivery location is out of range change address,is,ENG
+Aap ka delivery location is out of range change address,out,ENG
+Aap ka delivery location is out of range change address,of,ENG
+Aap ka delivery location is out of range change address,range,ENG
+Aap ka delivery location is out of range change address,change,ENG
+Aap ka delivery location is out of range change address,address,ENG
+Yeh speaker sound quality is amazing worth every penny,Yeh,URD
+Yeh speaker sound quality is amazing worth every penny,speaker,ENG
+Yeh speaker sound quality is amazing worth every penny,sound,ENG
+Yeh speaker sound quality is amazing worth every penny,quality,ENG
+Yeh speaker sound quality is amazing worth every penny,is,ENG
+Yeh speaker sound quality is amazing worth every penny,amazing,ENG
+Yeh speaker sound quality is amazing worth every penny,worth,ENG
+Yeh speaker sound quality is amazing worth every penny,every,ENG
+Yeh speaker sound quality is amazing worth every penny,penny,ENG
+Main ne new project launch kar diya feeling proud,Main,URD
+Main ne new project launch kar diya feeling proud,ne,URD
+Main ne new project launch kar diya feeling proud,new,ENG
+Main ne new project launch kar diya feeling proud,project,ENG
+Main ne new project launch kar diya feeling proud,launch,ENG
+Main ne new project launch kar diya feeling proud,kar,URD
+Main ne new project launch kar diya feeling proud,diya,URD
+Main ne new project launch kar diya feeling proud,feeling,ENG
+Main ne new project launch kar diya feeling proud,proud,ENG
+Bhai bill divide kar lete hain equal split for everyone,Bhai,URD
+Bhai bill divide kar lete hain equal split for everyone,bill,ENG
+Bhai bill divide kar lete hain equal split for everyone,divide,ENG
+Bhai bill divide kar lete hain equal split for everyone,kar,URD
+Bhai bill divide kar lete hain equal split for everyone,lete,URD
+Bhai bill divide kar lete hain equal split for everyone,hain,URD
+Bhai bill divide kar lete hain equal split for everyone,equal,ENG
+Bhai bill divide kar lete hain equal split for everyone,split,ENG
+Bhai bill divide kar lete hain equal split for everyone,for,ENG
+Bhai bill divide kar lete hain equal split for everyone,everyone,ENG
+Yeh place Instagrammable hai photo session zaroori hai,Yeh,URD
+Yeh place Instagrammable hai photo session zaroori hai,place,ENG
+Yeh place Instagrammable hai photo session zaroori hai,Instagrammable,ENG
+Yeh place Instagrammable hai photo session zaroori hai,hai,URD
+Yeh place Instagrammable hai photo session zaroori hai,photo,ENG
+Yeh place Instagrammable hai photo session zaroori hai,session,ENG
+Yeh place Instagrammable hai photo session zaroori hai,zaroori,URD
+Yeh place Instagrammable hai photo session zaroori hai,hai,URD
+Mera brain freeze ho gaya processing speed slow hai,Mera,URD
+Mera brain freeze ho gaya processing speed slow hai,brain,ENG
+Mera brain freeze ho gaya processing speed slow hai,freeze,ENG
+Mera brain freeze ho gaya processing speed slow hai,ho,URD
+Mera brain freeze ho gaya processing speed slow hai,gaya,URD
+Mera brain freeze ho gaya processing speed slow hai,processing,ENG
+Mera brain freeze ho gaya processing speed slow hai,speed,ENG
+Mera brain freeze ho gaya processing speed slow hai,slow,ENG
+Mera brain freeze ho gaya processing speed slow hai,hai,URD
+Aaj raat match stream hoga let us watch live together,Aaj,URD
+Aaj raat match stream hoga let us watch live together,raat,URD
+Aaj raat match stream hoga let us watch live together,match,ENG
+Aaj raat match stream hoga let us watch live together,stream,ENG
+Aaj raat match stream hoga let us watch live together,hoga,URD
+Aaj raat match stream hoga let us watch live together,let,ENG
+Aaj raat match stream hoga let us watch live together,us,ENG
+Aaj raat match stream hoga let us watch live together,watch,ENG
+Aaj raat match stream hoga let us watch live together,live,ENG
+Aaj raat match stream hoga let us watch live together,together,ENG
+Aap ki post viral ho gayi got thousand views,Aap,URD
+Aap ki post viral ho gayi got thousand views,ki,URD
+Aap ki post viral ho gayi got thousand views,post,ENG
+Aap ki post viral ho gayi got thousand views,viral,ENG
+Aap ki post viral ho gayi got thousand views,ho,URD
+Aap ki post viral ho gayi got thousand views,gayi,URD
+Aap ki post viral ho gayi got thousand views,got,ENG
+Aap ki post viral ho gayi got thousand views,thousand,ENG
+Aap ki post viral ho gayi got thousand views,views,ENG
+Mujhe shortcut pata hai we will reach quickly,Mujhe,URD
+Mujhe shortcut pata hai we will reach quickly,shortcut,ENG
+Mujhe shortcut pata hai we will reach quickly,pata,URD
+Mujhe shortcut pata hai we will reach quickly,hai,URD
+Mujhe shortcut pata hai we will reach quickly,we,ENG
+Mujhe shortcut pata hai we will reach quickly,will,ENG
+Mujhe shortcut pata hai we will reach quickly,reach,ENG
+Mujhe shortcut pata hai we will reach quickly,quickly,ENG
+Is laptop ki RAM upgrade karni paray gi system laggy hai,Is,URD
+Is laptop ki RAM upgrade karni paray gi system laggy hai,laptop,ENG
+Is laptop ki RAM upgrade karni paray gi system laggy hai,ki,URD
+Is laptop ki RAM upgrade karni paray gi system laggy hai,RAM,ENG
+Is laptop ki RAM upgrade karni paray gi system laggy hai,upgrade,ENG
+Is laptop ki RAM upgrade karni paray gi system laggy hai,karni,URD
+Is laptop ki RAM upgrade karni paray gi system laggy hai,paray,URD
+Is laptop ki RAM upgrade karni paray gi system laggy hai,gi,URD
+Is laptop ki RAM upgrade karni paray gi system laggy hai,system,ENG
+Is laptop ki RAM upgrade karni paray gi system laggy hai,laggy,ENG
+Is laptop ki RAM upgrade karni paray gi system laggy hai,hai,URD
+Bhai car parking full hai search another spot,Bhai,URD
+Bhai car parking full hai search another spot,car,ENG
+Bhai car parking full hai search another spot,parking,ENG
+Bhai car parking full hai search another spot,full,ENG
+Bhai car parking full hai search another spot,hai,URD
+Bhai car parking full hai search another spot,search,ENG
+Bhai car parking full hai search another spot,another,ENG
+Bhai car parking full hai search another spot,spot,ENG
+Yeh ice cream flavor is top notch so creamy,Yeh,URD
+Yeh ice cream flavor is top notch so creamy,ice,ENG
+Yeh ice cream flavor is top notch so creamy,cream,ENG
+Yeh ice cream flavor is top notch so creamy,flavor,ENG
+Yeh ice cream flavor is top notch so creamy,is,ENG
+Yeh ice cream flavor is top notch so creamy,top,ENG
+Yeh ice cream flavor is top notch so creamy,notch,ENG
+Yeh ice cream flavor is top notch so creamy,so,ENG
+Yeh ice cream flavor is top notch so creamy,creamy,ENG
+Mera presentation slide deck is complete review it once,Mera,URD
+Mera presentation slide deck is complete review it once,presentation,ENG
+Mera presentation slide deck is complete review it once,slide,ENG
+Mera presentation slide deck is complete review it once,deck,ENG
+Mera presentation slide deck is complete review it once,is,ENG
+Mera presentation slide deck is complete review it once,complete,ENG
+Mera presentation slide deck is complete review it once,review,ENG
+Mera presentation slide deck is complete review it once,it,ENG
+Mera presentation slide deck is complete review it once,once,ENG
+Aaj office mein party thi full fun atmosphere,Aaj,URD
+Aaj office mein party thi full fun atmosphere,office,ENG
+Aaj office mein party thi full fun atmosphere,mein,URD
+Aaj office mein party thi full fun atmosphere,party,ENG
+Aaj office mein party thi full fun atmosphere,thi,URD
+Aaj office mein party thi full fun atmosphere,full,ENG
+Aaj office mein party thi full fun atmosphere,fun,ENG
+Aaj office mein party thi full fun atmosphere,atmosphere,ENG
+Main ticket cancel kar raha hoon plan postponed indefinitely,Main,URD
+Main ticket cancel kar raha hoon plan postponed indefinitely,ticket,ENG
+Main ticket cancel kar raha hoon plan postponed indefinitely,cancel,ENG
+Main ticket cancel kar raha hoon plan postponed indefinitely,kar,URD
+Main ticket cancel kar raha hoon plan postponed indefinitely,raha,URD
+Main ticket cancel kar raha hoon plan postponed indefinitely,hoon,URD
+Main ticket cancel kar raha hoon plan postponed indefinitely,plan,ENG
+Main ticket cancel kar raha hoon plan postponed indefinitely,postponed,ENG
+Main ticket cancel kar raha hoon plan postponed indefinitely,indefinitely,ENG
+Is game graphics are unreal looks like real life,Is,URD
+Is game graphics are unreal looks like real life,game,ENG
+Is game graphics are unreal looks like real life,graphics,ENG
+Is game graphics are unreal looks like real life,are,ENG
+Is game graphics are unreal looks like real life,unreal,ENG
+Is game graphics are unreal looks like real life,looks,ENG
+Is game graphics are unreal looks like real life,like,ENG
+Is game graphics are unreal looks like real life,real,ENG
+Is game graphics are unreal looks like real life,life,ENG
+Aap ne invoice clear kar diya update payment status,Aap,URD
+Aap ne invoice clear kar diya update payment status,ne,URD
+Aap ne invoice clear kar diya update payment status,invoice,ENG
+Aap ne invoice clear kar diya update payment status,clear,ENG
+Aap ne invoice clear kar diya update payment status,kar,URD
+Aap ne invoice clear kar diya update payment status,diya,URD
+Aap ne invoice clear kar diya update payment status,update,ENG
+Aap ne invoice clear kar diya update payment status,payment,ENG
+Aap ne invoice clear kar diya update payment status,status,ENG
+Yeh dress size is too tight replace with larger size,Yeh,URD
+Yeh dress size is too tight replace with larger size,dress,ENG
+Yeh dress size is too tight replace with larger size,size,ENG
+Yeh dress size is too tight replace with larger size,is,ENG
+Yeh dress size is too tight replace with larger size,too,ENG
+Yeh dress size is too tight replace with larger size,tight,ENG
+Yeh dress size is too tight replace with larger size,replace,ENG
+Yeh dress size is too tight replace with larger size,with,ENG
+Yeh dress size is too tight replace with larger size,larger,ENG
+Yeh dress size is too tight replace with larger size,size,ENG
+Bhai backup file create kar lo safety measure,Bhai,URD
+Bhai backup file create kar lo safety measure,backup,ENG
+Bhai backup file create kar lo safety measure,file,ENG
+Bhai backup file create kar lo safety measure,create,ENG
+Bhai backup file create kar lo safety measure,kar,URD
+Bhai backup file create kar lo safety measure,lo,URD
+Bhai backup file create kar lo safety measure,safety,ENG
+Bhai backup file create kar lo safety measure,measure,ENG
+Aaj mausam clear hai blue sky visible everywhere,Aaj,URD
+Aaj mausam clear hai blue sky visible everywhere,mausam,URD
+Aaj mausam clear hai blue sky visible everywhere,clear,ENG
+Aaj mausam clear hai blue sky visible everywhere,hai,URD
+Aaj mausam clear hai blue sky visible everywhere,blue,ENG
+Aaj mausam clear hai blue sky visible everywhere,sky,ENG
+Aaj mausam clear hai blue sky visible everywhere,visible,ENG
+Aaj mausam clear hai blue sky visible everywhere,everywhere,ENG
+Mera phone drop ho gaya screen shattered completely,Mera,URD
+Mera phone drop ho gaya screen shattered completely,phone,ENG
+Mera phone drop ho gaya screen shattered completely,drop,ENG
+Mera phone drop ho gaya screen shattered completely,ho,URD
+Mera phone drop ho gaya screen shattered completely,gaya,URD
+Mera phone drop ho gaya screen shattered completely,screen,ENG
+Mera phone drop ho gaya screen shattered completely,shattered,ENG
+Mera phone drop ho gaya screen shattered completely,completely,ENG
+Bhai discount deal active hai grab it fast,Bhai,URD
+Bhai discount deal active hai grab it fast,discount,ENG
+Bhai discount deal active hai grab it fast,deal,ENG
+Bhai discount deal active hai grab it fast,active,ENG
+Bhai discount deal active hai grab it fast,hai,URD
+Bhai discount deal active hai grab it fast,grab,ENG
+Bhai discount deal active hai grab it fast,it,ENG
+Bhai discount deal active hai grab it fast,fast,ENG
+Is book ki summary btao main idea kya hai,Is,URD
+Is book ki summary btao main idea kya hai,book,ENG
+Is book ki summary btao main idea kya hai,ki,URD
+Is book ki summary btao main idea kya hai,summary,ENG
+Is book ki summary btao main idea kya hai,btao,URD
+Is book ki summary btao main idea kya hai,main,ENG
+Is book ki summary btao main idea kya hai,idea,ENG
+Is book ki summary btao main idea kya hai,kya,URD
+Is book ki summary btao main idea kya hai,hai,URD
+Main ne email draft kar li sends after review,Main,URD
+Main ne email draft kar li sends after review,ne,URD
+Main ne email draft kar li sends after review,email,ENG
+Main ne email draft kar li sends after review,draft,ENG
+Main ne email draft kar li sends after review,kar,URD
+Main ne email draft kar li sends after review,li,URD
+Main ne email draft kar li sends after review,sends,ENG
+Main ne email draft kar li sends after review,after,ENG
+Main ne email draft kar li sends after review,review,ENG
+Yeh café ka environment is super chill highly recommended,Yeh,URD
+Yeh café ka environment is super chill highly recommended,café,ENG
+Yeh café ka environment is super chill highly recommended,ka,URD
+Yeh café ka environment is super chill highly recommended,environment,ENG
+Yeh café ka environment is super chill highly recommended,is,ENG
+Yeh café ka environment is super chill highly recommended,super,ENG
+Yeh café ka environment is super chill highly recommended,chill,ENG
+Yeh café ka environment is super chill highly recommended,highly,ENG
+Yeh café ka environment is super chill highly recommended,recommended,ENG
+Mera code execute nahi ho raha throws null pointer exception,Mera,URD
+Mera code execute nahi ho raha throws null pointer exception,code,ENG
+Mera code execute nahi ho raha throws null pointer exception,execute,ENG
+Mera code execute nahi ho raha throws null pointer exception,nahi,URD
+Mera code execute nahi ho raha throws null pointer exception,ho,URD
+Mera code execute nahi ho raha throws null pointer exception,raha,URD
+Mera code execute nahi ho raha throws null pointer exception,throws,ENG
+Mera code execute nahi ho raha throws null pointer exception,null,ENG
+Mera code execute nahi ho raha throws null pointer exception,pointer,ENG
+Mera code execute nahi ho raha throws null pointer exception,exception,ENG
+Kal hum mountain trip par ja rahey feel super excited,Kal,URD
+Kal hum mountain trip par ja rahey feel super excited,hum,URD
+Kal hum mountain trip par ja rahey feel super excited,mountain,ENG
+Kal hum mountain trip par ja rahey feel super excited,trip,ENG
+Kal hum mountain trip par ja rahey feel super excited,par,URD
+Kal hum mountain trip par ja rahey feel super excited,ja,URD
+Kal hum mountain trip par ja rahey feel super excited,rahey,URD
+Kal hum mountain trip par ja rahey feel super excited,feel,ENG
+Kal hum mountain trip par ja rahey feel super excited,super,ENG
+Kal hum mountain trip par ja rahey feel super excited,excited,ENG
+Unka startup pitch was super impressive investors approved funding,Unka,URD
+Unka startup pitch was super impressive investors approved funding,startup,ENG
+Unka startup pitch was super impressive investors approved funding,pitch,ENG
+Unka startup pitch was super impressive investors approved funding,was,ENG
+Unka startup pitch was super impressive investors approved funding,super,ENG
+Unka startup pitch was super impressive investors approved funding,impressive,ENG
+Unka startup pitch was super impressive investors approved funding,investors,ENG
+Unka startup pitch was super impressive investors approved funding,approved,ENG
+Unka startup pitch was super impressive investors approved funding,funding,ENG
+Bhai keyboard keys are jammed fix it properly,Bhai,URD
+Bhai keyboard keys are jammed fix it properly,keyboard,ENG
+Bhai keyboard keys are jammed fix it properly,keys,ENG
+Bhai keyboard keys are jammed fix it properly,are,ENG
+Bhai keyboard keys are jammed fix it properly,jammed,ENG
+Bhai keyboard keys are jammed fix it properly,fix,ENG
+Bhai keyboard keys are jammed fix it properly,it,ENG
+Bhai keyboard keys are jammed fix it properly,properly,ENG
+Aaj mera gaming marathon hai playing with squad tonight,Aaj,URD
+Aaj mera gaming marathon hai playing with squad tonight,mera,URD
+Aaj mera gaming marathon hai playing with squad tonight,gaming,ENG
+Aaj mera gaming marathon hai playing with squad tonight,marathon,ENG
+Aaj mera gaming marathon hai playing with squad tonight,hai,URD
+Aaj mera gaming marathon hai playing with squad tonight,playing,ENG
+Aaj mera gaming marathon hai playing with squad tonight,with,ENG
+Aaj mera gaming marathon hai playing with squad tonight,squad,ENG
+Aaj mera gaming marathon hai playing with squad tonight,tonight,ENG
+Is laptop ki cooling fan makes loud noise check internal fan,Is,URD
+Is laptop ki cooling fan makes loud noise check internal fan,laptop,ENG
+Is laptop ki cooling fan makes loud noise check internal fan,ki,URD
+Is laptop ki cooling fan makes loud noise check internal fan,cooling,ENG
+Is laptop ki cooling fan makes loud noise check internal fan,fan,ENG
+Is laptop ki cooling fan makes loud noise check internal fan,makes,ENG
+Is laptop ki cooling fan makes loud noise check internal fan,loud,ENG
+Is laptop ki cooling fan makes loud noise check internal fan,noise,ENG
+Is laptop ki cooling fan makes loud noise check internal fan,check,ENG
+Is laptop ki cooling fan makes loud noise check internal fan,internal,ENG
+Is laptop ki cooling fan makes loud noise check internal fan,fan,ENG
+Aap ka parcel dispatched ho gaya track package online,Aap,URD
+Aap ka parcel dispatched ho gaya track package online,ka,URD
+Aap ka parcel dispatched ho gaya track package online,parcel,ENG
+Aap ka parcel dispatched ho gaya track package online,dispatched,ENG
+Aap ka parcel dispatched ho gaya track package online,ho,URD
+Aap ka parcel dispatched ho gaya track package online,gaya,URD
+Aap ka parcel dispatched ho gaya track package online,track,ENG
+Aap ka parcel dispatched ho gaya track package online,package,ENG
+Aap ka parcel dispatched ho gaya track package online,online,ENG
+Main ne form submit kar diya waiting for confirmation email,Main,URD
+Main ne form submit kar diya waiting for confirmation email,ne,URD
+Main ne form submit kar diya waiting for confirmation email,form,ENG
+Main ne form submit kar diya waiting for confirmation email,submit,ENG
+Main ne form submit kar diya waiting for confirmation email,kar,URD
+Main ne form submit kar diya waiting for confirmation email,diya,URD
+Main ne form submit kar diya waiting for confirmation email,waiting,ENG
+Main ne form submit kar diya waiting for confirmation email,for,ENG
+Main ne form submit kar diya waiting for confirmation email,confirmation,ENG
+Main ne form submit kar diya waiting for confirmation email,email,ENG
+Yeh song bass drop is crazy heavy sound quality,Yeh,URD
+Yeh song bass drop is crazy heavy sound quality,song,ENG
+Yeh song bass drop is crazy heavy sound quality,bass,ENG
+Yeh song bass drop is crazy heavy sound quality,drop,ENG
+Yeh song bass drop is crazy heavy sound quality,is,ENG
+Yeh song bass drop is crazy heavy sound quality,crazy,ENG
+Yeh song bass drop is crazy heavy sound quality,heavy,ENG
+Yeh song bass drop is crazy heavy sound quality,sound,ENG
+Yeh song bass drop is crazy heavy sound quality,quality,ENG
+Bhai location live share kar do finding destination hard,Bhai,URD
+Bhai location live share kar do finding destination hard,location,ENG
+Bhai location live share kar do finding destination hard,live,ENG
+Bhai location live share kar do finding destination hard,share,ENG
+Bhai location live share kar do finding destination hard,kar,URD
+Bhai location live share kar do finding destination hard,do,URD
+Bhai location live share kar do finding destination hard,finding,ENG
+Bhai location live share kar do finding destination hard,destination,ENG
+Bhai location live share kar do finding destination hard,hard,ENG
+Mera battery saver on hai screen brightness low karo,Mera,URD
+Mera battery saver on hai screen brightness low karo,battery,ENG
+Mera battery saver on hai screen brightness low karo,saver,ENG
+Mera battery saver on hai screen brightness low karo,on,ENG
+Mera battery saver on hai screen brightness low karo,hai,URD
+Mera battery saver on hai screen brightness low karo,screen,ENG
+Mera battery saver on hai screen brightness low karo,brightness,ENG
+Mera battery saver on hai screen brightness low karo,low,ENG
+Mera battery saver on hai screen brightness low karo,karo,URD
+Aaj hum new strategy discuss karein ge team alignment crucial,Aaj,URD
+Aaj hum new strategy discuss karein ge team alignment crucial,hum,URD
+Aaj hum new strategy discuss karein ge team alignment crucial,new,ENG
+Aaj hum new strategy discuss karein ge team alignment crucial,strategy,ENG
+Aaj hum new strategy discuss karein ge team alignment crucial,discuss,ENG
+Aaj hum new strategy discuss karein ge team alignment crucial,karein,URD
+Aaj hum new strategy discuss karein ge team alignment crucial,ge,URD
+Aaj hum new strategy discuss karein ge team alignment crucial,team,ENG
+Aaj hum new strategy discuss karein ge team alignment crucial,alignment,ENG
+Aaj hum new strategy discuss karein ge team alignment crucial,crucial,ENG
+Is mobile ka processor is very fast zero lag experienced,Is,URD
+Is mobile ka processor is very fast zero lag experienced,mobile,ENG
+Is mobile ka processor is very fast zero lag experienced,ka,URD
+Is mobile ka processor is very fast zero lag experienced,processor,ENG
+Is mobile ka processor is very fast zero lag experienced,is,ENG
+Is mobile ka processor is very fast zero lag experienced,very,ENG
+Is mobile ka processor is very fast zero lag experienced,fast,ENG
+Is mobile ka processor is very fast zero lag experienced,zero,ENG
+Is mobile ka processor is very fast zero lag experienced,lag,ENG
+Is mobile ka processor is very fast zero lag experienced,experienced,ENG
+Kal mera interview scheduled hai preparing answer notes,Kal,URD
+Kal mera interview scheduled hai preparing answer notes,mera,URD
+Kal mera interview scheduled hai preparing answer notes,interview,ENG
+Kal mera interview scheduled hai preparing answer notes,scheduled,ENG
+Kal mera interview scheduled hai preparing answer notes,hai,URD
+Kal mera interview scheduled hai preparing answer notes,preparing,ENG
+Kal mera interview scheduled hai preparing answer notes,answer,ENG
+Kal mera interview scheduled hai preparing answer notes,notes,ENG
+Bhai wifi speed slow aarahey hai restart router now,Bhai,URD
+Bhai wifi speed slow aarahey hai restart router now,wifi,ENG
+Bhai wifi speed slow aarahey hai restart router now,speed,ENG
+Bhai wifi speed slow aarahey hai restart router now,slow,ENG
+Bhai wifi speed slow aarahey hai restart router now,aarahey,URD
+Bhai wifi speed slow aarahey hai restart router now,hai,URD
+Bhai wifi speed slow aarahey hai restart router now,restart,ENG
+Bhai wifi speed slow aarahey hai restart router now,router,ENG
+Bhai wifi speed slow aarahey hai restart router now,now,ENG
+Yeh online course is super practical skills gained easily,Yeh,URD
+Yeh online course is super practical skills gained easily,online,ENG
+Yeh online course is super practical skills gained easily,course,ENG
+Yeh online course is super practical skills gained easily,is,ENG
+Yeh online course is super practical skills gained easily,super,ENG
+Yeh online course is super practical skills gained easily,practical,ENG
+Yeh online course is super practical skills gained easily,skills,ENG
+Yeh online course is super practical skills gained easily,gained,ENG
+Yeh online course is super practical skills gained easily,easily,ENG
+Main shaam ko walk par jaata hoon keeping healthy routine,Main,URD
+Main shaam ko walk par jaata hoon keeping healthy routine,shaam,URD
+Main shaam ko walk par jaata hoon keeping healthy routine,ko,URD
+Main shaam ko walk par jaata hoon keeping healthy routine,walk,ENG
+Main shaam ko walk par jaata hoon keeping healthy routine,par,URD
+Main shaam ko walk par jaata hoon keeping healthy routine,jaata,URD
+Main shaam ko walk par jaata hoon keeping healthy routine,hoon,URD
+Main shaam ko walk par jaata hoon keeping healthy routine,keeping,ENG
+Main shaam ko walk par jaata hoon keeping healthy routine,healthy,ENG
+Main shaam ko walk par jaata hoon keeping healthy routine,routine,ENG
+Unka product design is modern customer loved interface,Unka,URD
+Unka product design is modern customer loved interface,product,ENG
+Unka product design is modern customer loved interface,design,ENG
+Unka product design is modern customer loved interface,is,ENG
+Unka product design is modern customer loved interface,modern,ENG
+Unka product design is modern customer loved interface,customer,ENG
+Unka product design is modern customer loved interface,loved,ENG
+Unka product design is modern customer loved interface,interface,ENG
+Bhai seat reserve kar lo hall is getting crowded,Bhai,URD
+Bhai seat reserve kar lo hall is getting crowded,seat,ENG
+Bhai seat reserve kar lo hall is getting crowded,reserve,ENG
+Bhai seat reserve kar lo hall is getting crowded,kar,URD
+Bhai seat reserve kar lo hall is getting crowded,lo,URD
+Bhai seat reserve kar lo hall is getting crowded,hall,ENG
+Bhai seat reserve kar lo hall is getting crowded,is,ENG
+Bhai seat reserve kar lo hall is getting crowded,getting,ENG
+Bhai seat reserve kar lo hall is getting crowded,crowded,ENG
+Is phone ki battery drain quick ho rahi optimization required,Is,URD
+Is phone ki battery drain quick ho rahi optimization required,phone,ENG
+Is phone ki battery drain quick ho rahi optimization required,ki,URD
+Is phone ki battery drain quick ho rahi optimization required,battery,ENG
+Is phone ki battery drain quick ho rahi optimization required,drain,ENG
+Is phone ki battery drain quick ho rahi optimization required,quick,ENG
+Is phone ki battery drain quick ho rahi optimization required,ho,URD
+Is phone ki battery drain quick ho rahi optimization required,rahi,URD
+Is phone ki battery drain quick ho rahi optimization required,optimization,ENG
+Is phone ki battery drain quick ho rahi optimization required,required,ENG
+Aaj raat hum BBQ party karein ge inviting all friends,Aaj,URD
+Aaj raat hum BBQ party karein ge inviting all friends,raat,URD
+Aaj raat hum BBQ party karein ge inviting all friends,hum,URD
+Aaj raat hum BBQ party karein ge inviting all friends,BBQ,ENG
+Aaj raat hum BBQ party karein ge inviting all friends,party,ENG
+Aaj raat hum BBQ party karein ge inviting all friends,karein,URD
+Aaj raat hum BBQ party karein ge inviting all friends,ge,URD
+Aaj raat hum BBQ party karein ge inviting all friends,inviting,ENG
+Aaj raat hum BBQ party karein ge inviting all friends,all,ENG
+Aaj raat hum BBQ party karein ge inviting all friends,friends,ENG
+Mera laptop charger damage ho gaya buy new adapter,Mera,URD
+Mera laptop charger damage ho gaya buy new adapter,laptop,ENG
+Mera laptop charger damage ho gaya buy new adapter,charger,ENG
+Mera laptop charger damage ho gaya buy new adapter,damage,ENG
+Mera laptop charger damage ho gaya buy new adapter,ho,URD
+Mera laptop charger damage ho gaya buy new adapter,gaya,URD
+Mera laptop charger damage ho gaya buy new adapter,buy,ENG
+Mera laptop charger damage ho gaya buy new adapter,new,ENG
+Mera laptop charger damage ho gaya buy new adapter,adapter,ENG
+Yeh movie climax was shocking totally unexpected plot twist,Yeh,URD
+Yeh movie climax was shocking totally unexpected plot twist,movie,ENG
+Yeh movie climax was shocking totally unexpected plot twist,climax,ENG
+Yeh movie climax was shocking totally unexpected plot twist,was,ENG
+Yeh movie climax was shocking totally unexpected plot twist,shocking,ENG
+Yeh movie climax was shocking totally unexpected plot twist,totally,ENG
+Yeh movie climax was shocking totally unexpected plot twist,unexpected,ENG
+Yeh movie climax was shocking totally unexpected plot twist,plot,ENG
+Yeh movie climax was shocking totally unexpected plot twist,twist,ENG
+Aap ne notification clear kar di check inbox again,Aap,URD
+Aap ne notification clear kar di check inbox again,ne,URD
+Aap ne notification clear kar di check inbox again,notification,ENG
+Aap ne notification clear kar di check inbox again,clear,ENG
+Aap ne notification clear kar di check inbox again,kar,URD
+Aap ne notification clear kar di check inbox again,di,URD
+Aap ne notification clear kar di check inbox again,check,ENG
+Aap ne notification clear kar di check inbox again,inbox,ENG
+Aap ne notification clear kar di check inbox again,again,ENG
+Bhai dark mode enable karo screen is too bright,Bhai,URD
+Bhai dark mode enable karo screen is too bright,dark,ENG
+Bhai dark mode enable karo screen is too bright,mode,ENG
+Bhai dark mode enable karo screen is too bright,enable,ENG
+Bhai dark mode enable karo screen is too bright,karo,URD
+Bhai dark mode enable karo screen is too bright,screen,ENG
+Bhai dark mode enable karo screen is too bright,is,ENG
+Bhai dark mode enable karo screen is too bright,too,ENG
+Bhai dark mode enable karo screen is too bright,bright,ENG
+Is game mein graphic glitch hai need software patch,Is,URD
+Is game mein graphic glitch hai need software patch,game,ENG
+Is game mein graphic glitch hai need software patch,mein,URD
+Is game mein graphic glitch hai need software patch,graphic,ENG
+Is game mein graphic glitch hai need software patch,glitch,ENG
+Is game mein graphic glitch hai need software patch,hai,URD
+Is game mein graphic glitch hai need software patch,need,ENG
+Is game mein graphic glitch hai need software patch,software,ENG
+Is game mein graphic glitch hai need software patch,patch,ENG
+Main ne flight tickets book kar leen trip confirmed,Main,URD
+Main ne flight tickets book kar leen trip confirmed,ne,URD
+Main ne flight tickets book kar leen trip confirmed,flight,ENG
+Main ne flight tickets book kar leen trip confirmed,tickets,ENG
+Main ne flight tickets book kar leen trip confirmed,book,ENG
+Main ne flight tickets book kar leen trip confirmed,kar,URD
+Main ne flight tickets book kar leen trip confirmed,leen,URD
+Main ne flight tickets book kar leen trip confirmed,trip,ENG
+Main ne flight tickets book kar leen trip confirmed,confirmed,ENG
+Yeh pizza topping is delicious extra cheese added,Yeh,URD
+Yeh pizza topping is delicious extra cheese added,pizza,ENG
+Yeh pizza topping is delicious extra cheese added,topping,ENG
+Yeh pizza topping is delicious extra cheese added,is,ENG
+Yeh pizza topping is delicious extra cheese added,delicious,ENG
+Yeh pizza topping is delicious extra cheese added,extra,ENG
+Yeh pizza topping is delicious extra cheese added,cheese,ENG
+Yeh pizza topping is delicious extra cheese added,added,ENG
+Bhai audio volume high karo cannot hear sound,Bhai,URD
+Bhai audio volume high karo cannot hear sound,audio,ENG
+Bhai audio volume high karo cannot hear sound,volume,ENG
+Bhai audio volume high karo cannot hear sound,high,ENG
+Bhai audio volume high karo cannot hear sound,karo,URD
+Bhai audio volume high karo cannot hear sound,cannot,ENG
+Bhai audio volume high karo cannot hear sound,hear,ENG
+Bhai audio volume high karo cannot hear sound,sound,ENG
+Mera server down ho gaya website not responding,Mera,URD
+Mera server down ho gaya website not responding,server,ENG
+Mera server down ho gaya website not responding,down,ENG
+Mera server down ho gaya website not responding,ho,URD
+Mera server down ho gaya website not responding,gaya,URD
+Mera server down ho gaya website not responding,website,ENG
+Mera server down ho gaya website not responding,not,ENG
+Mera server down ho gaya website not responding,responding,ENG
+Aaj main ne goal complete kar liya feeling victorious,Aaj,URD
+Aaj main ne goal complete kar liya feeling victorious,main,URD
+Aaj main ne goal complete kar liya feeling victorious,ne,URD
+Aaj main ne goal complete kar liya feeling victorious,goal,ENG
+Aaj main ne goal complete kar liya feeling victorious,complete,ENG
+Aaj main ne goal complete kar liya feeling victorious,kar,URD
+Aaj main ne goal complete kar liya feeling victorious,liya,URD
+Aaj main ne goal complete kar liya feeling victorious,feeling,ENG
+Aaj main ne goal complete kar liya feeling victorious,victorious,ENG
+Is camera ka portrait mode is aesthetic background blurry,Is,URD
+Is camera ka portrait mode is aesthetic background blurry,camera,ENG
+Is camera ka portrait mode is aesthetic background blurry,ka,URD
+Is camera ka portrait mode is aesthetic background blurry,portrait,ENG
+Is camera ka portrait mode is aesthetic background blurry,mode,ENG
+Is camera ka portrait mode is aesthetic background blurry,is,ENG
+Is camera ka portrait mode is aesthetic background blurry,aesthetic,ENG
+Is camera ka portrait mode is aesthetic background blurry,background,ENG
+Is camera ka portrait mode is aesthetic background blurry,blurry,ENG
+Kal mera final exam hai study mode activated,Kal,URD
+Kal mera final exam hai study mode activated,mera,URD
+Kal mera final exam hai study mode activated,final,ENG
+Kal mera final exam hai study mode activated,exam,ENG
+Kal mera final exam hai study mode activated,hai,URD
+Kal mera final exam hai study mode activated,study,ENG
+Kal mera final exam hai study mode activated,mode,ENG
+Kal mera final exam hai study mode activated,activated,ENG
+Bhai file zip karke mail kar do easy download,Bhai,URD
+Bhai file zip karke mail kar do easy download,file,ENG
+Bhai file zip karke mail kar do easy download,zip,ENG
+Bhai file zip karke mail kar do easy download,karke,URD
+Bhai file zip karke mail kar do easy download,mail,ENG
+Bhai file zip karke mail kar do easy download,kar,URD
+Bhai file zip karke mail kar do easy download,do,URD
+Bhai file zip karke mail kar do easy download,easy,ENG
+Bhai file zip karke mail kar do easy download,download,ENG
+Yeh shoes quality is premium very comfortable walk,Yeh,URD
+Yeh shoes quality is premium very comfortable walk,shoes,ENG
+Yeh shoes quality is premium very comfortable walk,quality,ENG
+Yeh shoes quality is premium very comfortable walk,is,ENG
+Yeh shoes quality is premium very comfortable walk,premium,ENG
+Yeh shoes quality is premium very comfortable walk,very,ENG
+Yeh shoes quality is premium very comfortable walk,comfortable,ENG
+Yeh shoes quality is premium very comfortable walk,walk,ENG
+Main ne feedback form fill kar diya submitted successfully,Main,URD
+Main ne feedback form fill kar diya submitted successfully,ne,URD
+Main ne feedback form fill kar diya submitted successfully,feedback,ENG
+Main ne feedback form fill kar diya submitted successfully,form,ENG
+Main ne feedback form fill kar diya submitted successfully,fill,ENG
+Main ne feedback form fill kar diya submitted successfully,kar,URD
+Main ne feedback form fill kar diya submitted successfully,diya,URD
+Main ne feedback form fill kar diya submitted successfully,submitted,ENG
+Main ne feedback form fill kar diya submitted successfully,successfully,ENG
+Unka marketing campaign went viral high conversion rate,Unka,URD
+Unka marketing campaign went viral high conversion rate,marketing,ENG
+Unka marketing campaign went viral high conversion rate,campaign,ENG
+Unka marketing campaign went viral high conversion rate,went,ENG
+Unka marketing campaign went viral high conversion rate,viral,ENG
+Unka marketing campaign went viral high conversion rate,high,ENG
+Unka marketing campaign went viral high conversion rate,conversion,ENG
+Unka marketing campaign went viral high conversion rate,rate,ENG
+Bhai app permissions allow karo camera access required,Bhai,URD
+Bhai app permissions allow karo camera access required,app,ENG
+Bhai app permissions allow karo camera access required,permissions,ENG
+Bhai app permissions allow karo camera access required,allow,ENG
+Bhai app permissions allow karo camera access required,karo,URD
+Bhai app permissions allow karo camera access required,camera,ENG
+Bhai app permissions allow karo camera access required,access,ENG
+Bhai app permissions allow karo camera access required,required,ENG
+Mera storage memory full ho gayi clean junk files,Mera,URD
+Mera storage memory full ho gayi clean junk files,storage,ENG
+Mera storage memory full ho gayi clean junk files,memory,ENG
+Mera storage memory full ho gayi clean junk files,full,ENG
+Mera storage memory full ho gayi clean junk files,ho,URD
+Mera storage memory full ho gayi clean junk files,gayi,URD
+Mera storage memory full ho gayi clean junk files,clean,ENG
+Mera storage memory full ho gayi clean junk files,junk,ENG
+Mera storage memory full ho gayi clean junk files,files,ENG
+Aaj weather condition is stormy stay indoor guys,Aaj,URD
+Aaj weather condition is stormy stay indoor guys,weather,ENG
+Aaj weather condition is stormy stay indoor guys,condition,ENG
+Aaj weather condition is stormy stay indoor guys,is,ENG
+Aaj weather condition is stormy stay indoor guys,stormy,ENG
+Aaj weather condition is stormy stay indoor guys,stay,ENG
+Aaj weather condition is stormy stay indoor guys,indoor,ENG
+Aaj weather condition is stormy stay indoor guys,guys,ENG
+Is laptop touchpad is super smooth gestures work fast,Is,URD
+Is laptop touchpad is super smooth gestures work fast,laptop,ENG
+Is laptop touchpad is super smooth gestures work fast,touchpad,ENG
+Is laptop touchpad is super smooth gestures work fast,is,ENG
+Is laptop touchpad is super smooth gestures work fast,super,ENG
+Is laptop touchpad is super smooth gestures work fast,smooth,ENG
+Is laptop touchpad is super smooth gestures work fast,gestures,ENG
+Is laptop touchpad is super smooth gestures work fast,work,ENG
+Is laptop touchpad is super smooth gestures work fast,fast,ENG
+Kal mera flight timing is early morning alarm set,Kal,URD
+Kal mera flight timing is early morning alarm set,mera,URD
+Kal mera flight timing is early morning alarm set,flight,ENG
+Kal mera flight timing is early morning alarm set,timing,ENG
+Kal mera flight timing is early morning alarm set,is,ENG
+Kal mera flight timing is early morning alarm set,early,ENG
+Kal mera flight timing is early morning alarm set,morning,ENG
+Kal mera flight timing is early morning alarm set,alarm,ENG
+Kal mera flight timing is early morning alarm set,set,ENG
+Bhai social media detox zaroori hai taking offline break,Bhai,URD
+Bhai social media detox zaroori hai taking offline break,social,ENG
+Bhai social media detox zaroori hai taking offline break,media,ENG
+Bhai social media detox zaroori hai taking offline break,detox,ENG
+Bhai social media detox zaroori hai taking offline break,zaroori,URD
+Bhai social media detox zaroori hai taking offline break,hai,URD
+Bhai social media detox zaroori hai taking offline break,taking,ENG
+Bhai social media detox zaroori hai taking offline break,offline,ENG
+Bhai social media detox zaroori hai taking offline break,break,ENG
+Yeh software license is active status green color,Yeh,URD
+Yeh software license is active status green color,software,ENG
+Yeh software license is active status green color,license,ENG
+Yeh software license is active status green color,is,ENG
+Yeh software license is active status green color,active,ENG
+Yeh software license is active status green color,status,ENG
+Yeh software license is active status green color,green,ENG
+Yeh software license is active status green color,color,ENG
