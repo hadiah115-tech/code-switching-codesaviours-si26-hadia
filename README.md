@@ -20,7 +20,6 @@ The dataset is designed for language identification and code-switching NLP tasks
 
 - **URD** – Roman Urdu
 - **ENG** – English
-- **MIX** – Mixed Language Token
 
 ---
 
@@ -59,7 +58,6 @@ During Week 7, the collected dataset was used to train a language identification
 **Labels:**
 - URD = 0
 - ENG = 1
-- MIX = 2
 
 ### Evaluation Results
 
